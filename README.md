@@ -156,7 +156,6 @@ The VGA controller generates the synchronization signals and visible pixel coord
 The controller generates horizontal and vertical synchronization signals and controls RGB output during the visible display region.
 
 ---
-
 <a id="gameplay-demo"></a>
 ## 🎥 Gameplay Demo
 
@@ -164,11 +163,14 @@ The following animation demonstrates the gameplay of Butterfly Effect.
 
 <div align="center">
 
-![Butterfly Effect Gameplay](images/gameplay.gif)
+<img src="videos/gameplay.gif" alt="Butterfly Effect Gameplay" width="650">
 
 </div>
 
 ---
+
+<a id="hardware-results"></a>
+## 📸 Hardware Results
 
 <a id="hardware-results"></a>
 ## 📸 Hardware Results
@@ -179,7 +181,7 @@ The following images show the game and its output states.
 
 <div align="center">
 
-![Gameplay](images/gameplay.jpg)
+<img src="images/gameplay.png" alt="Gameplay" width="650">
 
 </div>
 
@@ -187,7 +189,7 @@ The following images show the game and its output states.
 
 <div align="center">
 
-![Winning State](images/win.jpg)
+<img src="images/win.png" alt="Winning State" width="650">
 
 </div>
 
@@ -195,7 +197,7 @@ The following images show the game and its output states.
 
 <div align="center">
 
-![Losing State](images/lose.jpg)
+<img src="images/lose.png" alt="Losing State" width="650">
 
 </div>
 
