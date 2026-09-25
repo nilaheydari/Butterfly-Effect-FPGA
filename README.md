@@ -146,5 +146,4 @@ Butterfly-Effect-FPGA/
 - **Input:** Push Buttons
 - **Additional Output:** Four-Digit Seven-Segment Display
 
----
 
