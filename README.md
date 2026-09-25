@@ -148,10 +148,3 @@ Butterfly-Effect-FPGA/
 
 ---
 
-<div align="center">
-
-**🦋 Butterfly Effect**
-
-*Digital Systems CAD — VHDL & FPGA Project*
-
-</div>
