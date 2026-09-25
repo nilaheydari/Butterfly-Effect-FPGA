@@ -7,8 +7,6 @@
 ![FPGA](https://img.shields.io/badge/FPGA-Spartan--6-28A745?style=for-the-badge)
 ![Xilinx](https://img.shields.io/badge/Tool-Xilinx_ISE-E01B24?style=for-the-badge)
 
-**Digital Systems CAD Project**
-
 </div>
 
 ---
