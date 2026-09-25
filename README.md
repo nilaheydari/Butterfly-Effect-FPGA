@@ -172,9 +172,6 @@ The following animation demonstrates the gameplay of Butterfly Effect.
 <a id="hardware-results"></a>
 ## 📸 Hardware Results
 
-<a id="hardware-results"></a>
-## 📸 Hardware Results
-
 The following images show the game and its output states.
 
 ### Gameplay
